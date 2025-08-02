@@ -1,0 +1,5 @@
+Artificial intelligence includes a field called machine learning, which helps systems learn and make decisions from data. This technique enhances a computer's ability to perform tasks using experience.
+
+One popular approach is supervised learning, where the model is trained with examples that include both input and correct output.
+
+Machine learning is often used in areas like image recognition, voice assistants, and personalized recommendations.

@@ -1,0 +1,5 @@
+Machine learning is a branch of artificial intelligence that focuses on building systems that learn from data. It allows computers to improve their performance on tasks through experience.
+
+In supervised learning, the algorithm is trained on labeled data. This means that each training example is paired with an output label.
+
+Common applications of machine learning include recommendation systems, speech recognition, and image classification.
